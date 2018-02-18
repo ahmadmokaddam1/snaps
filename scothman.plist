@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://i8.ae/HXXq</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>org.tihmstar.h3lix</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+
+				
+ 				<string>
+SCOthman 10.25.2
+❤ ❤ ❤
+أخر إصدار مع خيار 
+تبديل للشكل القديم والجديد
+❤ ❤ ❤
+رفع: أحمد المقدم
+👍🏻 👍🏻 😜
+تابعني عبر تويتر
+	@ahmadmokaddam
+❤ ❤ ❤
+				</string>
+				
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
